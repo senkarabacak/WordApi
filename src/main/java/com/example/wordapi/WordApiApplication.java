@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WordApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WordApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(WordApiApplication.class, args);
+    }
 
 }
